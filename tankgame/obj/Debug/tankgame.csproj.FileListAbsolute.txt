@@ -1,0 +1,13 @@
+C:\Users\dns\Google Диск\other\cpp\tankgame\tankgame\bin\Debug\tankgame.exe.config
+C:\Users\dns\Google Диск\other\cpp\tankgame\tankgame\bin\Debug\tankgame.exe
+C:\Users\dns\Google Диск\other\cpp\tankgame\tankgame\bin\Debug\tankgame.pdb
+C:\Users\dns\Google Диск\other\cpp\tankgame\tankgame\obj\Debug\tankgame.csprojResolveAssemblyReference.cache
+C:\Users\dns\Google Диск\other\cpp\tankgame\tankgame\obj\Debug\tankgame.exe
+C:\Users\dns\Google Диск\other\cpp\tankgame\tankgame\obj\Debug\tankgame.pdb
+C:\Users\dns\Google Диск\other\cs\tankgame\tankgame\bin\Debug\tankgame.exe.config
+C:\Users\dns\Google Диск\other\cs\tankgame\tankgame\obj\Debug\tankgame.exe
+C:\Users\dns\Google Диск\other\cs\tankgame\tankgame\obj\Debug\tankgame.pdb
+C:\Users\dns\Google Диск\other\cs\tankgame\tankgame\obj\Debug\tankgame.csprojResolveAssemblyReference.cache
+C:\Users\dns\Google Диск\other\cs\tankgame\tankgame\bin\Debug\tankgame.exe
+C:\Users\dns\Google Диск\other\cs\tankgame\tankgame\bin\Debug\tankgame.pdb
+C:\Users\dns\Google Диск\other\cs\tankgame\tankgame\obj\Debug\tankgame.csproj.CoreCompileInputs.cache
