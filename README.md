@@ -1,7 +1,7 @@
 # Tanks game
 
 ## Description
-A simple Tanks game with ASCII graphics written when I was in university in 2017 as an exercise in object-oriented programming.
+A simple Tanks game with ASCII graphics written as an exercise in object-oriented programming when I was in university in 2017.
 
 ## Requirements
 A Microsoft .NET redistributable installation is probably required to run.
