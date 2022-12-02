@@ -3,6 +3,8 @@
 ## Description
 A simple Tanks game with ASCII graphics written as an exercise in object-oriented programming when I was in university in 2017.
 
+![](thumbnail.png)
+
 ## Requirements
 A Microsoft .NET redistributable installation is probably required to run.
 
